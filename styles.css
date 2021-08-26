@@ -1,0 +1,34 @@
+h1{
+  text-align: center;
+}
+p {
+  color: #D8E3E7;
+  text-align: center;
+  border-style: double;
+  border-width: thin;
+}
+h3 {
+  color:#D8E3E7;
+  padding-left: 15px;
+}
+ul,ol {
+  color: grey;
+}
+h4 {
+  text-align: center;
+}
+.footer p {
+  color: grey;
+  border-style: none;
+  text-align: left;
+  padding-left: 15px;
+  margin-left: 10px;
+}
+a:hover {
+  color: #5089C6;
+}
+a {
+  padding-left: 15px;
+  margin-left: 15px;
+  color: #eaf6f6;
+}
